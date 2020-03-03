@@ -1,2 +1,2 @@
 # 36350
-Take a guess, buddy
+Repository for 36-350: Statistical Computing.
